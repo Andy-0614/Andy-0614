@@ -6,7 +6,6 @@
 <a href="https://www.instagram.com/jing_an.0614"><img src="https://img.shields.io/badge/Instagram-F7768E?style=for-the-badge&logo=instagram&logoColor=1a1b26" /></a>
 <a href="https://www.youtube.com/@jing_an_0614"><img src="https://img.shields.io/badge/YouTube-F7768E?style=for-the-badge&logo=youtube&logoColor=1a1b26" /></a>
 <a href="https://discord.com/users/1087679993317961768"><img src="https://img.shields.io/badge/Discord-7DCFFF?style=for-the-badge&logo=discord&logoColor=1a1b26" /></a>
-<a href="https://learn.cylabacademy.org/profile/jing19an"><img src="https://img.shields.io/badge/picoCTF-9ECE6A?style=for-the-badge&logo=hackthebox&logoColor=1a1b26" /></a>
 
 <br/><br/>
 
